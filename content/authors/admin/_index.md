@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Liqun Zhao
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate student of Automation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Harbin Institute of Technology (HIT)
+  url: "https://www.topuniversities.com/university-rankings/rankings-by-location/mainland-china/2019"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: His research interests include soft manipulators, detection, estimation and tracking by computer vision for medical imaging, as well as planning and optimization, especially for unmanned vehicles.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Planning and Optimization for Unmanned Vehicles
+- Detection, Estimation and Tracking by Computer Vision
+- Soft Manipulators
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Automation, supervised by prof. Huijun Gao
+    institution: Harbin Institute of Technology
+    year: will graduate in 2021
+
+  - course: Summer Internship as Research Assistant, supervised by Prof. Masayoshi Tomizuka
+    institution: University of California, Berkeley
+    year: 07/2020-09/2020
+    
+  - course: Exchange Student 
+    institution: The University of Adelaide
+    year: 02/2019-07/2019
+    
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,32 +48,41 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  # link: lqzhaohit@gmail.com
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/LiqunZhao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+cv:
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lqzhaohit@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liqun Zhao is currently a bachelor student majoring in Automation within the school of Astronautics, Harbin Institute of Technology, and will receive his bachelor degree in 2021 under the supervision from Prof. [Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=zh-CN). During his undergraduate period, he also studied at the University of Adelaide as an international exchange student, and worked as an research assistant supervised by Prof. [Masayoshi Tomizuka](https://scholar.google.com/citations?user=8m8taGEAAAAJ&hl=zh-CN) in [Mechanical Systems Control Lab](https://msc.berkeley.edu/) at UC Berkeley. His research interests include soft manipulators, detection, estimation and tracking by computer vision for medical imaging, as well as planning and optimization, especially for unmanned vehicles.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+---
+Quick checks:
+
+* For detailed CV, please click {{% staticref "files/cv.pdf" "newtab" %}}here{{% /staticref %}}.
+
+* For transcript, please click {{% staticref "files/transcript.pdf" "newtab" %}}here{{% /staticref %}}.
+
+* For the certificate for my ranking (2/182), please click {{% staticref "files/certificate.pdf" "newtab" %}}here{{% /staticref %}}.
+
+Thanks for your interest and precious time, and your further [contact](#contact) is sincerely welcomed and appreciated!
+
+---
+
+Update 09/19/2020
